@@ -1,0 +1,12 @@
+{
+  "name": "earn-by-code",
+  "displayName": "earn-by-code",
+  "expo": {
+    "name": "earn-by-code",
+    "slug": "earn-by-code",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
